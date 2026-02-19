@@ -29,8 +29,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=EhsanOrg009&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=EhsanOrg009&theme=tokyonight"/>
 </p>
 
 ---
@@ -38,7 +38,7 @@
 ## 📫 Connect With Me
 
 <p>
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/EhsanOrg009">
 <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
 </a>
 </p>

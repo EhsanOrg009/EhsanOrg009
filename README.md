@@ -26,19 +26,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-### 🤖 Telegram Video Bot
-A smart Telegram bot built with Pyrogram to send and manage video content.
-
-### 🌐 TCP Ping Tool
-Measure latency using TCP handshake (more accurate than ICMP in some cases).
-
-### 📊 Caspian Sea Level Prediction
-Using LSTM neural networks to predict sea level changes.
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">

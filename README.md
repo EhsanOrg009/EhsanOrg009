@@ -35,6 +35,13 @@
 
 ---
 
+## 🚀 Projects
+
+- 🔍 Advanced TCP Scanner  
+  A multi-threaded TCP scanner with banner grabbing and ping support
+
+---
+
 ## 📫 Connect With Me
 
 <p>

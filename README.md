@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋 I'm Ehsan</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=32&duration=4000&pause=600&color=008C6C&width=445&lines=Hi+Guys%2C+I'm+Ehsan;Python+Developer;Network+Student)](https://git.io/typing-svg)
+
 
 <p align="center">
 💻 Python Developer | 🌐 Network Enthusiast | 🚀 Future Backend Engineer

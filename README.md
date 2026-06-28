@@ -1,16 +1,18 @@
+```markdown
 <h1 align="center">Hi 👋 I'm Ehsan</h1>
 
 <p align="center">
-💻 Python Developer | 🌐 Network Enthusiast | 🚀 Future Backend Engineer
+💻 Python Developer | 🌐 Network Enthusiast | ⚙️ Backend & Automation
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🔭 Working on Telegram Bots & Network Tools  
-- 🌱 Currently learning Django & Advanced Networking  
-- ⚡ Interested in Automation, Security & System Design  
-- 💡 Love building practical tools  
+
+- 🔭 Building Telegram Bots, Desktop Applications & Network Tools
+- 🌱 Currently learning Django, AI/LLMs and Advanced Networking
+- ⚡ Interested in Backend Development, Automation, Security & System Design
+- 💡 Passionate about building practical tools that solve real-world problems
 
 ---
 
@@ -18,8 +20,10 @@
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/MikroTik-E60023?style=for-the-badge"/>
 </p>
@@ -35,13 +39,25 @@
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-- 🔍 Advanced TCP Scanner  
-  A multi-threaded TCP scanner with banner grabbing and ping support
+### 🔍 Advanced TCP Scanner
+A multi-threaded TCP scanner featuring banner grabbing, ping discovery and concurrent scanning.
 
-- 📸 Motion Detection with OpenCV
- A simple yet effective motion detection system built using Python and OpenCV.
+### 🎮 Reflex Game
+A desktop reaction and memory game built with C# and Windows Forms.
+
+### 📸 Motion Detection with OpenCV
+A motion detection application developed using Python and OpenCV.
+
+---
+
+## 🎯 Currently Learning
+
+- Django
+- Computer Networks
+- AI & LLMs
+- System Design
 
 ---
 
@@ -56,4 +72,6 @@
 ---
 
 ## ⚡ Fun Fact
-I enjoy building tools that solve real-world problems 🚀
+
+I enjoy building practical software, exploring computer networks, and continuously learning new technologies. 🚀
+```

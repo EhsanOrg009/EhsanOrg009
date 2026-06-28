@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=32&duration=4000&pause=600&color=008C6C&width=445&lines=Hi+Guys%2C+I'm+Ehsan+Mehranmoghadam;Python+Developer;Network+Student+and+Network+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=28&duration=3500&pause=1000&color=008C6C&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Ehsan;Python+Developer;Computer+Networks+Student;Learning+AI%2C+LLMs+%26+Backend+Development)](https://git.io/typing-svg)
 
 
 <p align="center">

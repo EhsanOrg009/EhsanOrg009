@@ -43,6 +43,8 @@
 - 📸 Motion Detection with OpenCV
  A simple yet effective motion detection system built using Python and OpenCV.
 
+- 🧠 Neurometer  
+ A desktop reaction and memory game built with C# and Windows Forms.
 ---
 
 ## 📫 Connect With Me

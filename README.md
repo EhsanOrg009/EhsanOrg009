@@ -48,13 +48,13 @@ Tools & DevOps:
 ## 🚀 Projects
 
 - 🔍 Advanced TCP Scanner  
-  A multi-threaded TCP scanner with banner grabbing and ping support
+    A multi-threaded TCP scanner with banner grabbing and ping support
   
 - 📸 Motion Detection with OpenCV
-  A simple yet effective motion detection system built using Python and OpenCV.
+    A simple yet effective motion detection system built using Python and OpenCV.
 
 - 🧠 Neurometer  
-  A desktop reaction and memory game built with C# and Windows Forms.
+    A desktop reaction and memory game built with C# and Windows Forms.
 ---
 
 ## 📫 Connect With Me
